@@ -1,0 +1,12 @@
+{
+    "name": "root/joke-generator",
+    "authors": [
+        {
+            "name": "Lukasz Walewski",
+            "email": "lukasz.walewski26@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
